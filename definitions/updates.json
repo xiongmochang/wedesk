@@ -4,7 +4,7 @@
       "open-url": "",
       "latest-version": "1.0.1",
       "download-url": "https://raw.githubusercontent.com/xiongmochang/wedesk/master/download/windows/wedesk_1.0.1.exe",
-      "changelog": "增加了自动更新功能",
+      "changelog": "updates",
       "mandatory": true
     },
     "osx": {
